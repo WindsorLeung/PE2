@@ -25,7 +25,15 @@ I do beseech you, good Clarence, for Edward
 This lowest validation loss was produced with the settings **n_layer=7**, **n_head=5**
 
 
-**Stage 4** :the first 20 lines of the generated samples
+**Stage 4** :
+Tokens are computed from My dataset:
+
+vocab size: 98
+train has 706,486 tokens
+val has 78,499 tokens
+
+
+the first 20 lines of the generated samples
 
         
  nlese  [le,alf, x= ", 	p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
