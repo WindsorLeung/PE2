@@ -26,6 +26,8 @@ This lowest validation loss was produced with the settings **n_layer=7**, **n_he
 
 
 **Stage 4** :the first 20 lines of the generated samples
+
+        
         nlese  [le,alf, x= ", 	p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
   ", , )
 .     =   "rt       ce)
