@@ -37,7 +37,10 @@ This lowest validation loss was produced with the settings **n_layer=7**, **n_he
  "))
                              :  0                    coaF"
     z
-The favorite generated snippet(s) that look the most coherent or interesting:
+
+
+
+The favorite generated snippet(s) that look the most coherent or interesting(most reasonable):
 nlese [le,alf, x= ", p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
 ", , )
 . = "rt ce)                               cowilinflre
