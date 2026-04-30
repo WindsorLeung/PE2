@@ -28,7 +28,7 @@ This lowest validation loss was produced with the settings **n_layer=7**, **n_he
 **Stage 4** :the first 20 lines of the generated samples
 
         
-        nlese  [le,alf, x= ", 	p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
+ nlese  [le,alf, x= ", 	p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
   ", , )
 .     =   "rt       ce)
    2      1
@@ -41,4 +41,7 @@ The favorite generated snippet(s) that look the most coherent or interesting:
 nlese [le,alf, x= ", p( : ", , =", (",=", "'f"nox= , Ele )..coorndeYuUndorangesis(Br ..suIco['x: e, , s.int_in^ bf", Con"", "rJoale,
 ", , )
 . = "rt ce)                               cowilinflre
+
+
+
 Due to the short training time of only 500 iterations, the generated code is mostly gibberish.
