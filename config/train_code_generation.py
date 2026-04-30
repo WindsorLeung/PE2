@@ -1,0 +1,12 @@
+dataset = 'code_generation'
+out_dir = 'out-code-gen'
+eval_interval = 100
+eval_iters = 100
+max_iters = 500  # Set to 1000+ for better quality if time permits
+batch_size = 64
+block_size = 256
+n_layer = 4
+n_head = 4
+n_embd = 128
+always_save_checkpoint = True
+device = 'cuda'
